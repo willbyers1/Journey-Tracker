@@ -21,13 +21,11 @@ A modern, production-grade native Android application designed to measure **real
 ## 📸 Application Screenshots
 
 <p align="center">
-  <img src="docs/images/screenshot_home.png" width="23%" alt="Home Screen" />
-  &nbsp;&nbsp;
-  <img src="docs/images/screenshot_active.png" width="23%" alt="Active Journey Screen" />
-  &nbsp;&nbsp;
-  <img src="docs/images/screenshot_detail.png" width="23%" alt="Journey Detail Screen" />
-  &nbsp;&nbsp;
-  <img src="docs/images/screenshot_history.png" width="23%" alt="History Screen" />
+<img width="358" height="802" alt="image" src="https://github.com/user-attachments/assets/1d546c5f-f352-40e6-964c-8eb9adaf5f91" />
+<img width="356" height="807" alt="image" src="https://github.com/user-attachments/assets/7fe166f9-aaeb-4ab2-86f5-546d95d39d7c" />
+<img width="360" height="816" alt="image" src="https://github.com/user-attachments/assets/bb3582cd-f7e3-4bdf-af99-6861de691718" />
+
+
 </p>
 
 | 1. Home & Route Planner | 2. Live Background Tracking | 3. Full Route Analytics | 4. Recorded Journey History |
