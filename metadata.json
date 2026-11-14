@@ -1,0 +1,6 @@
+{
+  "name": "Journey Tracker",
+  "description": "Background GPS journey tracking and automatic arrival detection app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
